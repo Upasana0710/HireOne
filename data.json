@@ -178,7 +178,12 @@
       "name": "Intuitive User Interface",
       "desc": "Experience a user-friendly interface that makes navigating our platform a breeze."
     }
-  ]
+  ],
+  "contact": {
+    "phone": "123-456-7890",
+    "email": "info@hireone.com",
+    "address": "123 Main St, Anytown, USA"
+  }
   
   
 }
