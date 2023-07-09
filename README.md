@@ -8,14 +8,7 @@ HireOne is a web platform that connects employers with top talent, streamlining 
 - **Advanced Candidate Search:** Utilize our advanced search capabilities to find the perfect candidates for your team.
 - **Streamlined Hiring Process:** Simplify your hiring process and save time with our streamlined and efficient workflow.
 - **Intuitive User Interface:** Experience a user-friendly interface that makes navigating our platform a breeze.
-
-## Contact Us
-
-For any inquiries or support, please feel free to reach out to us. Our team will be happy to assist you.
-
-- **Email:** contact@hireone.com
-- **Phone:** +1 123-456-7890
-- **Address:** 123 Main St, City, Country
+  
 
 ## Getting Started
 
