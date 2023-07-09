@@ -160,5 +160,25 @@
       "skills": ["Java", "HTML", "CSS"],
       "image": "https://images.unsplash.com/photo-1609952542840-df54cfddc3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGJveXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
     }
+  ],
+  "features": [
+    {
+      "name": "Seamless Login Features",
+      "desc": "Effortlessly log in and access your account with our seamless login experience."
+    },
+    {
+      "name": "Advanced Candidate Search",
+      "desc": "Utilize our advanced search capabilities to find the perfect candidates for your team."
+    },
+    {
+      "name": "Streamlined Hiring Process",
+      "desc": "Simplify your hiring process and save time with our streamlined and efficient workflow."
+    },
+    {
+      "name": "Intuitive User Interface",
+      "desc": "Experience a user-friendly interface that makes navigating our platform a breeze."
+    }
   ]
+  
+  
 }
